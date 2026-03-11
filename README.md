@@ -659,14 +659,6 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-**Dataset License**: UCI Heart Disease dataset is available for research and educational purposes.
-
----
-
 ## 📧 Contact & Connect
 
 ### Author
